@@ -18,6 +18,7 @@ input {
 }
 canvas {
     border: 2px solid steelblue;
+    background-color: white;
 
 }
 .toolbox {
